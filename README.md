@@ -1,6 +1,11 @@
-# 🎮 Java 2D Platformer
+# 🎮 Dungeon Chronicles (Java 2D Platformer)
 
 A hand-crafted 2D side-scrolling platformer built in pure Java using the AWT/Swing rendering pipeline — no game engine, no external libraries.
+
+
+
+### 🌐 Play Live in Browser:
+👉 **[Play Dungeon Chronicles Web Edition](https://radoanjaman.github.io/Dungeon-chronicles-web/)** — Runs directly in your browser with WebAssembly, 120 FPS support, responsive scaling, and low-latency audio!
 
 ---
 
