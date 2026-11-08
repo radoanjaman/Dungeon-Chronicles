@@ -75,7 +75,7 @@ java -cp bin main.MainClass
 ## Project Structure
 
 ```
-PlatformerTutorial/
+Dungeon Chronicles/
 ├── src/
 │   ├── audio/          # AudioPlayer — music & SFX
 │   ├── effects/        # Rain particles, dialogue effects
